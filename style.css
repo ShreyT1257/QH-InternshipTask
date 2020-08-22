@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    width: 100%;
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+}
+
+.navbar-logo {
+    margin-left: 3%;
+    width: 80px;
+    height: 40px;
+}
+.navbar-menu {
+    margin-left: 5%;
+    width: 85%;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10%;
+}
+
+.navbar-menu .nav-item .nav-link {
+    color: white;
+}
+
+#desc {
+    margin-left: 5%;
+    width: 90%;
+    height: auto;
+    background-color: rgba(173, 216, 230, 0.2);
+}
+#image-container {
+    margin-left: 5%;
+    margin-top: 3%;
+    width: 90%;
+    height: auto;
+    background-color: rgba(216, 191, 216, 0.5);
+}
+.images {
+    margin: 1%;
+}
+
+footer {
+    margin-top: 2%;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+}
