@@ -1,0 +1,16 @@
+Tahnkful for the Opportunity !
+
+Task 5:
+Build website for brand or celebrity using HTML, CSS, JavaScript or JQuery
+(Couldn't add to Heroku due to some errors for Heroku CLI)
+
+
+My Approach:
+Divided the Web Page into 7 divisions / sections
+Header (Navigation Bar) to navigate around the several links (not in use currently)
+Template => Tagline or Motive, kind of small brief statements (Video for Advertisements or Add purposes)
+Products => Some Important stuff can be highlighted 
+Company Advantages => just listing out good things or growth aspects
+Our Cases => Fields of Interest or Working on can be displayed with a small descriptive note
+Send Mail => for the visitors to contact or get in touch
+Footer => Copyright status or desired materials to be focused on !
